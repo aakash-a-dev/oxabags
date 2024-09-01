@@ -98,19 +98,19 @@ export default function Footer() {
             </div>
             <div className="mt-2 flex space-x-4">
               <Link
-                href="https://www.facebook.com/amanasia"
+                href="https://www.facebook.com/#"
                 className="text-sm hover:underline"
               >
                 Facebook
               </Link>
               <Link
-                href="https://www.twitter.com/amanasia"
+                href="https://www.twitter.com/#"
                 className="text-sm hover:underline"
               >
                 Twitter
               </Link>
               <Link
-                href="https://www.instagram.com/amanasia"
+                href="https://www.instagram.com/#"
                 className="text-sm hover:underline"
               >
                 Instagram
