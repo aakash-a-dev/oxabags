@@ -1,6 +1,6 @@
 export const SITE_NAME = "My Compu Clinic"
 export const SITE_URL = "https://evolve8.vercel.app/"
-export const SITE_DESCRIPTION = "Manufacturer, Wholesaler & Exporter of Jute bags, Cotton Bag for Corporate Events & Exhibitions"
+export const SITE_DESCRIPTION = "Premium Computer Accessories in Best Price"
 export const SITE_KEYWORDS = "Jute bags, Cotton Bag, Canvas Bags, File Folders, Denim Bags, Pouches"
 export const SITE_CATEGORY = "Shopping"
 export const SITE_IMAGE = "https://www.oxabags.com/og.webp"
